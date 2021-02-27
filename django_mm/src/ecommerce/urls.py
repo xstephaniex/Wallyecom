@@ -17,8 +17,8 @@ from django.contrib import admin
 from django.conf.urls import url
 from django.conf import settings            # eliminate on app deployment
 from django.conf.urls.static import static  # eliminate on app deployment
-from .views import home_page, login_page, register_page
 from items.views import ItemListView, item_list_view, ItemDetailView, item_detail_view
+from users.views import home_page, login_page, register_page
 
 
 urlpatterns = [
