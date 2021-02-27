@@ -11,8 +11,6 @@
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/django_mm/src/users/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_mm/src/ecommerce/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_mm/src/ecommerce/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_mm/src/ecommerce/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_mm/src/ecommerce/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_mm/src/ecommerce/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
